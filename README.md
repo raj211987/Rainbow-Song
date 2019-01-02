@@ -1,2 +1,3 @@
 # Rainbow-Song
-song about rainbow
+
+song about rainbow in the keu of c major.
